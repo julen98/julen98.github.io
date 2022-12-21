@@ -1,0 +1,1066 @@
+{
+    "acciones": [
+        {
+            "nombre": "Cierre de alquiler",
+            "grupo": "Cierre de alquileres o ventas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Cierre de venta",
+            "grupo": "Cierre de alquileres o ventas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Carteles zona",
+            "grupo": "Citas cerradas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Departamento cierre de citas",
+            "grupo": "Citas cerradas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Llamada fria",
+            "grupo": "Citas cerradas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Llamada de seguimiento",
+            "grupo": "Citas cerradas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Otros",
+            "grupo": "Citas cerradas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Referido accion marketing en zona",
+            "grupo": "Citas cerradas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Referido oficina",
+            "grupo": "Citas cerradas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Referido operacion",
+            "grupo": "Citas cerradas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Referido personal",
+            "grupo": "Citas cerradas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Buzoneo calle flyers 'Tu vecino vende su propiedad'",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Buzoneo carta vecinos del propietario",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Cartel en el portal",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Cartel en propiedad",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Compartida con agencias de zona",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Compartida con asesorías",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Compartida con compañeros de propia agencia",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Compartida con despachos de abogados",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Compartida con equipo de oficina",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Compartida en Facebook",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Compartida en Instagram",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Compartida con notarias",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Compartida en Tik Tok",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Gestión captación en automático compradores",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Gestión de informe de gestión mensual con agente",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Gestión de informe de gestión quincenal con agente",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Gestión de informe de gestión semanal con cliente",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Informe de gestión con estadísticas de portales",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Informe de gestión sin estadística de portales",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Inserción de producto en MLS local",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Inserción de producto en MLS nacional",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "No compartida",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "No gestiono bajada de precio",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Presentación de informe vía mail",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Presentación de informe presencial",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Presentación de informe telefónica",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Presentación de informe WhatsApp",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Publicidad en grupo de zona",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Rescindo exclusiva",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Reunión critica con cliente para bajada de precio mensual",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Reunión crítica con cliente para bajada de precio a los dos meses",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Reunión crítica con cliente para bajada de precio mas de dos meses",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Subida market place",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Subida a portales inmobiliarios",
+            "grupo": "Comercializacion propiedad",
+            "grupo2": ""
+        },
+        {
+            "nombre": "De alquiler",
+            "grupo": "Filtro comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "De compra",
+            "grupo": "Filtro comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "De contacto por propiedad en comercialización",
+            "grupo": "Filtro comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Para gestionar en exclusiva",
+            "grupo": "Filtro comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Otros",
+            "grupo": "Filtro comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "De referido de oficina",
+            "grupo": "Filtro comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "De referido de operaciones",
+            "grupo": "Filtro comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "De referido personal",
+            "grupo": "Filtro comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Ajuste de propiedades a necesidades del cliente",
+            "grupo": "Firma de exclusiva comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Cierre de citas",
+            "grupo": "Firma de exclusiva comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Confirmación de posibilidad de visita a propiedades seleccionadas",
+            "grupo": "Firma de exclusiva comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Firma de exclusiva",
+            "grupo": "Firma de exclusiva comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Gestión de listado de potenciales propiedades",
+            "grupo": "Firma de exclusiva comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Localización de propiedades",
+            "grupo": "Firma de exclusiva comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Presentación primer dossier",
+            "grupo": "Firma de exclusiva comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Presentación segundo dossier",
+            "grupo": "Firma de exclusiva comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Presentación tercer dossier",
+            "grupo": "Firma de exclusiva comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Reunión elección de visitas",
+            "grupo": "Firma de exclusiva comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Reunión de filtro de propiedades",
+            "grupo": "Firma de exclusiva comprador",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Adecuación vivienda completa",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Adecuación vivienda media",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Cierre fecha de fotografías",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Firma entrega de llaves",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Fotografía no profesional",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Fotografía profesional",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Historia Facebook 'Próxima comercialización ¿quieres ser el primero en visitarla?'",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Historia Instagram 'Próxima comercialización ¿quieres ser el primero en visitarla?'",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Home Stager abona cliente",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Home Stager adecuación inmueble",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Home Stager a cuenta de honorarios",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Home Stager visita previa",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "No adecuamos vivienda",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Vídeo 360 no profesional",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Vídeo 360 profesional",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Vídeo Facebook 'Próxima comercialización ¿quieres ser el primero en visitarla?'",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Vídeo Instagram 'Próxima comercialización ¿quieres ser el primero en visitarla?'",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Vídeo Tik Tok 'Próxima comercialización ¿quieres ser el primero en visitarla?'",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Vídeo visita exterior interior no profesional",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Vídeo visita exterior interior profesional",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Vídeo visita virtual no profesional",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Vídeo visita virtual profesional",
+            "grupo": "Firma de exclusiva propietario",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Carteles zona",
+            "grupo": "Llamada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Lead Fotocasa",
+            "grupo": "Llamada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Lead Idealista",
+            "grupo": "Llamada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Lead Pisos.com",
+            "grupo": "Llamada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Lead Smartwork",
+            "grupo": "Llamada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Otros",
+            "grupo": "Llamada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Otros portales",
+            "grupo": "Llamada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Referido accion marketing en zona",
+            "grupo": "Llamada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Referido oficina",
+            "grupo": "Llamada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Referido operacion",
+            "grupo": "Llamada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Referido personal",
+            "grupo": "Llamada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Bajada de precio por debajo de mínimo de propietario",
+            "grupo": "Ofertas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Bajada de precio por encima de mínimo de propietario",
+            "grupo": "Ofertas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Cerrada con negociación",
+            "grupo": "Ofertas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Cerrada sin negociación",
+            "grupo": "Ofertas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Comprador no sube la oferta no se cierra",
+            "grupo": "Ofertas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Comprador sube oferta se cierra",
+            "grupo": "Ofertas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Propietario baja precio se cierra",
+            "grupo": "Ofertas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Propietario no baja precio no se cierra",
+            "grupo": "Ofertas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Por propiedad en exclusiva",
+            "grupo": "Ofertas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Por propiedad en nota de encargo",
+            "grupo": "Ofertas",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Este corre de mi cuenta",
+            "subgrupo": "Acciones con establecimientos",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Patrocinio de equipos locales",
+            "subgrupo": "Acciones con establecimientos",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Publicidad compartida con establecimientos",
+            "subgrupo": "Acciones con establecimientos",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Campaña de verano en playas",
+            "subgrupo": "Acciones publicitarias en zona",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Felicitación navideña",
+            "subgrupo": "Acciones publicitarias en zona",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Patrocinio equipos de la zona",
+            "subgrupo": "Acciones publicitarias en zona",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Gestión de red de referidos externos",
+            "subgrupo": "Acciones de zona offline",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Realizar un open house trimestral en algunas de mis propiedades",
+            "subgrupo": "Acciones de zona offline",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Patrocinio de programa de fiestas locales",
+            "subgrupo": "Acciones de zona offline",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Repartir flyers y globos en mercadillo local",
+            "subgrupo": "Acciones de zona offline",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Trabajo social y de acción social",
+            "subgrupo": "Acciones de zona offline",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Acciones publicitarias online con recomendación de propietarios de negocios locales",
+            "subgrupo": "Acciones de zona online",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Campaña en periódicos locales",
+            "subgrupo": "Campañas de publicidad directa en zona",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Campaña en radios locales",
+            "subgrupo": "Campañas de publicidad directa en zona",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Campaña en periódicos locales",
+            "subgrupo": "Campañas de publicidad directa en zona",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Viviendas de marketing en zona",
+            "subgrupo": "Campañas de publicidad directa en zona",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Carta de presentación",
+            "subgrupo": "Marketing directo",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Flyers de presentación de la empresa",
+            "subgrupo": "Marketing directo",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Flyers de presentación personales",
+            "subgrupo": "Marketing directo",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Eventos locales",
+            "subgrupo": "Otros",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Acudir a fiestas patronales",
+            "subgrupo": "Otros",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Network marketing",
+            "subgrupo": "Otros",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Presentaciones e inauguraciones",
+            "subgrupo": "Otros",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Promociones personales de producto",
+            "subgrupo": "Redes sociales",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Promociones de la zona de posicionamiento",
+            "subgrupo": "Redes sociales",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Sorteos y promociones",
+            "subgrupo": "Redes sociales",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Comer",
+            "subgrupo": "Trasladar mi día a día a mi zona",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Compras",
+            "subgrupo": "Trasladar mi día a día a mi zona",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Desayunar",
+            "subgrupo": "Trasladar mi día a día a mi zona",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Gimnasio",
+            "subgrupo": "Trasladar mi día a día a mi zona",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Otro",
+            "subgrupo": "Trasladar mi día a día a mi zona",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Pintxo pote de tarde",
+            "subgrupo": "Trasladar mi día a día a mi zona",
+            "grupo": "Posicionamiento",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Cierro fecha de firma exclusiva",
+            "grupo": "Presentación de servicios",
+            "grupo2": "Segunda visita"
+        },
+        {
+            "nombre": "Descarto",
+            "grupo": "Presentación de servicios",
+            "grupo2": "Segunda visita"
+        },
+        {
+            "nombre": "Firma de exclusiva",
+            "grupo": "Presentación de servicios",
+            "grupo2": "Segunda visita"
+        },
+        {
+            "nombre": "Firma nota de encargo",
+            "grupo": "Presentación de servicios",
+            "grupo2": "Segunda visita"
+        },
+        {
+            "nombre": "Gestiono certificado energético",
+            "grupo": "Presentación de servicios",
+            "grupo2": "Segunda visita"
+        },
+        {
+            "nombre": "No cierro el acuerdo",
+            "grupo": "Presentación de servicios",
+            "grupo2": "Segunda visita"
+        },
+        {
+            "nombre": "Paso a seguimiento",
+            "grupo": "Presentación de servicios",
+            "grupo2": "Segunda visita"
+        },
+        {
+            "nombre": "Presentación plan de marketing",
+            "grupo": "Presentación de servicios",
+            "grupo2": "Segunda visita"
+        },
+        {
+            "nombre": "Presentación valoración",
+            "grupo": "Presentación de servicios",
+            "grupo2": "Segunda visita"
+        },
+        {
+            "nombre": "Saco nota simple propiedad",
+            "grupo": "Presentación de servicios",
+            "grupo2": "Segunda visita"
+        },
+        {
+            "nombre": "Cierro 2a visita para presentar plan de marketing +48h",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Cierro 2a visita para presentar plan de marketing 48h",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Día de cita",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Firmo exclusiva",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Firmo nota de encargo",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Realizo fotos de propiedad para valoración",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Historia Facebook 'Próxima captación de mi cartera'",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Historia Instagram 'Próxima captación de mi cartera'",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Dejo información de oficina",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Paso datos a departamento de valoraciones",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Realizo valoración",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Realizo reportaje de comercialización",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Dejo tarjeta",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Realizo valoración in situ",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Video Facebook 'Próxima captación de mi cartera'",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Video Instagram 'Próxima captación de mi cartera'",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Realizo vídeo de propiedad para valoración",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "Video Tik Tok 'Proxima captación de mi cartera'",
+            "grupo": "Visita de captación",
+            "grupo2": "Primera visita"
+        },
+        {
+            "nombre": "1 visita del comprador",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "2 visita del comprador",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "3 visita del comprador",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Adecuación de vivienda para la visita",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Se aplaza la visita por el comprador",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Se aplaza la visita por el propietario",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Cliente no vive en la propiedad",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Cliente vive en la propiedad",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Envío hoja de visita a propietario",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Espera del comprador en el portal",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Espera del comprador en la vivienda",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Feedback a cliente propietario tras visita mail",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Feedback a cliente propietario tras visita presencial",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Feedback a cliente propietario tras visita telefónica",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Feedback a cliente propietario tras visita WhatsApp",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Firma hoja de visita",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Llegada 10’ antes a la propiedad",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Llegada 30’ antes a la propiedad",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Llegada 45’ antes a la propiedad",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Llego tarde a la visita",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "No envío hoja de visita a propietario",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "No firma hoja de visita",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "No llego por un imprevisto a la visita",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Oferta +4 visitas",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Oferta en la 1 visita",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Oferta en la 2 visita",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Oferta en la 3 visita",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Oferta con depósito",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Oferta sin depósito",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Oferta verbal",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Propietario está en la visita",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Propietario no está en la visita",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Video de entrada para propietario",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Visita de +30' con oferta",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Visita de +30’ sin oferta",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Visita de 10' con oferta",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Visita de 10’ sin oferta",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Visita de 30’ sin oferta",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        },
+        {
+            "nombre": "Visita con otra inmobiliaria",
+            "grupo": "Visita de comprador por propiedad captada",
+            "grupo2": ""
+        }
+    ]
+}
