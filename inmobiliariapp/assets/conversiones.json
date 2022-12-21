@@ -1,0 +1,132 @@
+{
+    "conversiones": [
+        {
+            "nombre": "Llamada a cita cerrada",
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Llamada a exclusiva cerrada"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Llamada a nota de encargo cerrada"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Citas a primera visita"
+        },
+        {
+            "nombre": "Citas a exclusiva cerradas"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Citas a nota de encargo cerradas"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Primera visita a exclusiva"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Primera visita a segunda visita"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Primera visita a nota encargo"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Segunda visita a exclusiva"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Segunda visita a nota encargo"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Filtro de comprador a visita de comprador"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Exclusiva de comprador a cierre"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Exclusiva de propietario a cierre"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Visita de comprador a oferta"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Visita de comprador a cierre"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "De oferta a cierre"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Alquileres sobre cierre"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Ventas sobre cierre"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Ventas totales sobre citas"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Ventas totales sobre exclusivas"
+            ,
+            "accion1": "",
+            "accion2": ""
+        },
+        {
+            "nombre": "Ventas totales sobre llamadas"
+            ,
+            "accion1": "",
+            "accion2": ""
+        }
+    ]
+}
